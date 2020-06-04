@@ -1,0 +1,26 @@
+{
+  "text": {
+    "translation_begins": "-------ENGLISH-------TRANSLATION-------BEGINS",
+
+    "cookie_content": "Cookie Page",
+    "cookies": "This website uses cookies We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.",
+    "cookie_declaration_last_updated": "Cookie declaration last updated on 4/2/20 by Cookiebot",
+    "neccessary": "Necessary",
+    "preferences": "Preferences",
+    "statistics": "Statistics",
+    "marketing": "Marketing",
+    "show_details": "show details",
+    "hide_details": "hide details",
+    "go_to_profile": "GO TO PROFILE",
+    "go_to_home": "Go to Home",
+    "home": "HOME",
+    "second": "SECOND",
+    "home_page": "My Home Page",
+    "second_page": "My Second Page",
+    "home_one": "My Home One Page",
+    "home_head": "HOME ONE",
+    
+
+    "translation_finished": "-------ENGLISH-------TRANSLATION-------FINISHED"
+  }
+}
